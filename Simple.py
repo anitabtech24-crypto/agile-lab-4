@@ -3,3 +3,4 @@ A = 10
 B = 20
 Result = A+B
 print(Result)
+Print("Hello")
